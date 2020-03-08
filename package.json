@@ -9,7 +9,7 @@
         "redis":"~0.10.1",
         "node-red": "1.0.4",
         "node-red-contrib-blynk-api":"~0.0.7",
-        "node-red-contrib-blynk-ws":"~1.0.1",
+        "node-red-contrib-blynk-ws":"~1.0.1"
         
     }
 }
