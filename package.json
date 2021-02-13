@@ -7,7 +7,7 @@
         "nano": "~8.2.2",
         "feedparser":"~2.2.9",
         "redis":"~3.0.2",
-        "node-red": "1.0.4",
+        "node-red": "~1.2",
         "node-red-contrib-blynk-api":"~0.0.7",
         "node-red-contrib-blynk-ws":"~1.0.1",
         "node-red-contrib-aedes":"~0.3.0"
